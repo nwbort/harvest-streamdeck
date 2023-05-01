@@ -32,7 +32,7 @@ A short guide to help you get started quickly.
 
 Rename the folder as well as any references.
 
-`com.elgato.template` with `my.domain.plugin-name`
+`nz.co.cardioid.harvest-streamdeck` with `my.domain.plugin-name`
 
 ### Get the latest library
 
@@ -51,7 +51,7 @@ You can either clone the javascript library or add it as a submodule to your rep
 You can get started in app.js!
 
 ```javascript
-const myAction = new Action('com.elgato.template.action');
+const myAction = new Action('nz.co.cardioid.harvest-streamdeck.action');
 
 /**
  * The first event fired when Stream Deck starts
